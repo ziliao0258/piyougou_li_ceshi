@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="springdemosecurity:war">
+    <output-path>$PROJECT_DIR$/../spring-demo-security/target</output-path>
+    <root id="archive" name="spring-demo-security-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="springdemosecurity:war exploded" />
+    </root>
+  </artifact>
+</component>

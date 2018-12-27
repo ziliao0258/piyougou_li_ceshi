@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="commons-io-2.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../solrj/web/WEB-INF/lib/commons-io-2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../solrj/web/WEB-INF/lib/httpclient-4.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../solrj/web/WEB-INF/lib/httpcore-4.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../solrj/web/WEB-INF/lib/httpmime-4.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../solrj/web/WEB-INF/lib/noggit-0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../solrj/web/WEB-INF/lib/slf4j-api-1.7.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../solrj/web/WEB-INF/lib/solr-solrj-4.10.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../solrj/web/WEB-INF/lib/wstx-asl-3.2.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../solrj/web/WEB-INF/lib/zookeeper-3.4.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

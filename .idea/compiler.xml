@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="casclient_demo1" />
+        <module name="casclient_demo2" />
+        <module name="fastDFSDemo" />
+        <module name="itcast_sms" />
+        <module name="jmsDemo" />
+        <module name="pinyougou-common" />
+        <module name="pinyougou-dao" />
+        <module name="pinyougou-interface" />
+        <module name="pinyougou-pojo" />
+        <module name="pinyougou-service-buyer" />
+        <module name="pinyougou-service-page" />
+        <module name="pinyougou-service-search" />
+        <module name="pinyougou-service-sellergoods" />
+        <module name="pinyougou-service-user" />
+        <module name="pinyougou-web-manager" />
+        <module name="pinyougou-web-portal" />
+        <module name="pinyougou-web-shop" />
+        <module name="pinyougou-web-user" />
+        <module name="spring-demo-freemarker" />
+        <module name="spring-demo-solrutil" />
+        <module name="springboot_demo" />
+        <module name="SpringDataRedisDemo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="casclient_demo1" target="1.8" />
+      <module name="casclient_demo2" target="1.8" />
+      <module name="fastDFSDemo" target="1.5" />
+      <module name="itcast_sms" target="1.8" />
+      <module name="jmsDemo" target="1.7" />
+      <module name="parent" target="1.8" />
+      <module name="pinyougou-common" target="1.8" />
+      <module name="pinyougou-dao" target="1.8" />
+      <module name="pinyougou-interface" target="1.8" />
+      <module name="pinyougou-pojo" target="1.8" />
+      <module name="pinyougou-service-buyer" target="1.8" />
+      <module name="pinyougou-service-page" target="1.8" />
+      <module name="pinyougou-service-search" target="1.8" />
+      <module name="pinyougou-service-sellergoods" target="1.8" />
+      <module name="pinyougou-service-user" target="1.8" />
+      <module name="pinyougou-web-manager" target="1.8" />
+      <module name="pinyougou-web-portal" target="1.8" />
+      <module name="pinyougou-web-shop" target="1.8" />
+      <module name="pinyougou-web-user" target="1.8" />
+      <module name="spring-demo-freemarker" target="1.8" />
+      <module name="spring-demo-solr" target="1.8" />
+      <module name="spring-demo-solrutil" target="1.8" />
+      <module name="springboot_demo" target="1.8" />
+      <module name="SpringDataRedisDemo" target="1.8" />
+      <module name="springdemofreemarker" target="1.5" />
+      <module name="springdemosecurity" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

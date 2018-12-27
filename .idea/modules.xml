@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../SpringDataRedisDemo/SpringDataRedisDemo.iml" filepath="$PROJECT_DIR$/../../SpringDataRedisDemo/SpringDataRedisDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../casclient_demo1/casclient_demo1.iml" filepath="$PROJECT_DIR$/../../casclient_demo1/casclient_demo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../casclient_demo2/casclient_demo2.iml" filepath="$PROJECT_DIR$/../../casclient_demo2/casclient_demo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../fastDFSDemo/fastDFSDemo.iml" filepath="$PROJECT_DIR$/../../fastDFSDemo/fastDFSDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../itcast_sms/itcast_sms.iml" filepath="$PROJECT_DIR$/../../itcast_sms/itcast_sms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../jmsDemo/jmsDemo.iml" filepath="$PROJECT_DIR$/../../jmsDemo/jmsDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent.iml" filepath="$PROJECT_DIR$/parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougou-common/pinyougou-common.iml" filepath="$PROJECT_DIR$/pinyougou-common/pinyougou-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougou-dao/pinyougou-dao.iml" filepath="$PROJECT_DIR$/pinyougou-dao/pinyougou-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougou-interface/pinyougou-interface.iml" filepath="$PROJECT_DIR$/pinyougou-interface/pinyougou-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougou-pojo/pinyougou-pojo.iml" filepath="$PROJECT_DIR$/pinyougou-pojo/pinyougou-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougou-service-buyer/pinyougou-service-buyer.iml" filepath="$PROJECT_DIR$/pinyougou-service-buyer/pinyougou-service-buyer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougou-service-page/pinyougou-service-page.iml" filepath="$PROJECT_DIR$/pinyougou-service-page/pinyougou-service-page.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougou-service-search/pinyougou-service-search.iml" filepath="$PROJECT_DIR$/pinyougou-service-search/pinyougou-service-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougou-service-sellergoods/pinyougou-service-sellergoods.iml" filepath="$PROJECT_DIR$/pinyougou-service-sellergoods/pinyougou-service-sellergoods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougou-service-user/pinyougou-service-user.iml" filepath="$PROJECT_DIR$/pinyougou-service-user/pinyougou-service-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougou-web-manager/pinyougou-web-manager.iml" filepath="$PROJECT_DIR$/pinyougou-web-manager/pinyougou-web-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougou-web-portal/pinyougou-web-portal.iml" filepath="$PROJECT_DIR$/pinyougou-web-portal/pinyougou-web-portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougou-web-shop/pinyougou-web-shop.iml" filepath="$PROJECT_DIR$/pinyougou-web-shop/pinyougou-web-shop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougou-web-user/pinyougou-web-user.iml" filepath="$PROJECT_DIR$/pinyougou-web-user/pinyougou-web-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../solrj/solrj.iml" filepath="$PROJECT_DIR$/../../solrj/solrj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../spring-demo-freemarker/spring-demo-freemarker.iml" filepath="$PROJECT_DIR$/../../spring-demo-freemarker/spring-demo-freemarker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../spring-demo-solr/spring-demo-solr.iml" filepath="$PROJECT_DIR$/../../spring-demo-solr/spring-demo-solr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../spring-demo-solrutil/spring-demo-solrutil.iml" filepath="$PROJECT_DIR$/../../spring-demo-solrutil/spring-demo-solrutil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../springboot_demo/springboot_demo.iml" filepath="$PROJECT_DIR$/../../springboot_demo/springboot_demo.iml" />
+    </modules>
+  </component>
+</project>
